@@ -11,5 +11,22 @@
   },
   "bin": {
     "wikifact": "index.js"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jman294/wikifact.git"
+  },
+  "keywords": [
+    "wiki",
+    "fact",
+    "fun"
+  ],
+  "bugs": {
+    "url": "https://github.com/jman294/wikifact/issues"
+  },
+  "homepage": "https://github.com/jman294/wikifact#readme"
 }
