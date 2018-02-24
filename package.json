@@ -1,7 +1,7 @@
 {
   "name": "wikifact",
   "version": "1.0.0",
-  "description": "A fun wayy to get facts!",
+  "description": "A fun way to get facts!",
   "main": "wikifact.js",
   "author": "Jack DuPlessis",
   "license": "MIT",
