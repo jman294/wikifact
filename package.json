@@ -1,0 +1,15 @@
+{
+  "name": "wikifact",
+  "version": "1.0.0",
+  "description": "A fun wayy to get facts!",
+  "main": "wikifact.js",
+  "author": "Jack DuPlessis",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "follow-redirects": "^1.4.1"
+  },
+  "bin": {
+    "wikifact": "index.js"
+  }
+}
